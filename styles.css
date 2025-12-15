@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(forget-me-not-flower-as309740666.jpeg);
+    padding: 15px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(124, 171, 233);
+    font-size: 30px;
+}
+
+.text {
+    color: white;
+    font-family: "Parisienne", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.style{
+     font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+}
+
+.style2{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    font-size: 30px;
+}
+
+.style3{
+font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    font-size: 20px;
+}
+
+.background {
+    background-color: white;
+}
+
+/* Style the topnav */
+ul.topnav {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(118, 166, 228);
+}
+
+/* Style links in topnav */
+ul.topnav li a {
+    display: block;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+ul.topnav li a:hover {
+    background-color: white;
+    color: black;
+}
+
+div.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+div.flex-container>div {
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+
+.text2 {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+}
