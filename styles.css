@@ -102,11 +102,6 @@ div.flex-container>div {
     width: 50%;
 }
 
-.cowhead{
-    height:300px;
-    width: 300px;
-}
-
 ul.topnav {
   display: flex;
   list-style-type: none;
