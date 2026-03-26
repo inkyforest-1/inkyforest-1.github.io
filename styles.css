@@ -96,3 +96,7 @@ div.flex-container>div {
     text-decoration: underline;
     text-align: center;
 }
+
+.donut{
+    width: 50%;
+}
