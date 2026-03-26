@@ -24,6 +24,15 @@ header {
     font-style: normal;
 }
 
+.text2 {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 35px;
+}
+
 .style{
      font-family: "Delius", cursive;
     font-weight: 400;
@@ -89,17 +98,13 @@ div.flex-container>div {
     text-align: left;
 }
 
-.text2 {
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 35px;
-}
-
 .donut{
     width: 50%;
+}
+
+.cowhead{
+    height:300px;
+    width: 300px;
 }
 
 ul.topnav {
