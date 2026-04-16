@@ -95,21 +95,3 @@ ul.topnav li a:hover {
     text-align: center;
     font-size: 30px;
 }
-
-.want{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 35px;
-}
-
-.want2{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: none;
-    text-align: center;
-    font-size: 30px;
-}
