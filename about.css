@@ -17,24 +17,6 @@ header {
     font-size: 30px;
 }
 
-.about{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 35px;
-}
-
-.about2{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: none;
-    text-align: center;
-    font-size: 30px;
-}
-
 .begin {
     color: white;
     font-family: "Parisienne", cursive;
@@ -96,6 +78,24 @@ ul.topnav li a:hover {
   color: black;
 }
 
+.about{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 35px;
+}
+
+.about2{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+}
+
 .want{
     font-family: "Delius", cursive;
     font-weight: 400;
@@ -106,24 +106,6 @@ ul.topnav li a:hover {
 }
 
 .want2{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: none;
-    text-align: center;
-    font-size: 30px;
-}
-
-.did{
-font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 35px;
-}
-
-.did2{
     font-family: "Delius", cursive;
     font-weight: 400;
     font-style: normal;
