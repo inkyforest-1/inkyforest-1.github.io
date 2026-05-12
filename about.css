@@ -92,6 +92,15 @@ ul.topnav li a:hover {
     font-weight: 400;
     font-style: normal;
     text-decoration: none;
-    text-align: center;
+    text-align: none;
     font-size: 30px;
+}
+
+.about3{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: none;
+    font-size: 35px;
 }
