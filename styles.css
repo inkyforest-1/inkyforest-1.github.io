@@ -2,11 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-}
-
 header {
     background-image: url(forget-me-not-flower-as309740666.jpeg);
     padding: 15px;
@@ -89,17 +84,13 @@ ul.topnav li a:hover {
 div.flex-container {
     display: flex;
     flex-direction: row;
+     margin-left: 40px;
+    margin-right: 40px;
 }
 
 div.flex-container>div {
     font-size: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
     text-align: left;
-}
-
-.donut{
-    width: 50%;
 }
 
 ul.topnav {
