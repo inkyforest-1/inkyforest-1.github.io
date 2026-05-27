@@ -87,3 +87,12 @@ ul.topnav li a:hover {
     text-align: center;
     font-size: 35px;
 }
+
+.title2{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    font-size: 30px;
+}
