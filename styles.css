@@ -12,6 +12,13 @@ header {
     font-size: 30px;
 }
 
+.begin {
+    color: white;
+    font-family: "Parisienne", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
 .style{
      font-family: "Delius", cursive;
     font-weight: 400;
@@ -36,6 +43,15 @@ font-family: "Delius", cursive;
     text-decoration: none;
     text-align: left;
     font-size: 20px;
+}
+
+.text5{
+     font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
 }
 
 .background {
