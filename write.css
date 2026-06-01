@@ -33,14 +33,6 @@ ul.topnav {
     background-color: rgb(118, 166, 228);
 }
 
-/* Style links in topnav */
-ul.topnav li a {
-    display: block;
-    color: white;
-    padding: 10px 12px;
-    text-decoration: none;
-}
-
 /* Change color on hover */
 ul.topnav li a:hover {
     background-color: white;
@@ -72,11 +64,6 @@ ul.topnav li a {
   color: #f1f1f1;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-ul.topnav li a:hover {
-  background-color: #dddddd;
-  color: black;
 }
 
 .title{
