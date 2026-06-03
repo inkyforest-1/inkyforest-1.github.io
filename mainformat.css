@@ -2,12 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #F8F2ED;
-}
-
 header {
     background-image: url(forget-me-not-flower-as309740666.jpeg);
     padding: 15px;
@@ -18,13 +12,7 @@ header {
     font-size: 30px;
 }
 
-.begin {
-    color: white;
-    font-family: "Parisienne", cursive;
-    font-weight: 600;
-    font-style: normal;
-}
-
+/* Style the topnav */
 ul.topnav {
     display: flex;
     list-style-type: none;
@@ -42,12 +30,12 @@ ul.topnav li a:hover {
 div.flex-container {
     display: flex;
     flex-direction: row;
+     margin-left: 40px;
+    margin-right: 40px;
 }
 
 div.flex-container>div {
     font-size: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
     text-align: left;
 }
 
@@ -66,20 +54,13 @@ ul.topnav li a {
   text-decoration: none;
 }
 
-.title{
-    font-family: "Delius", cursive;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 35px;
+.background {
+    background-color: #F8F2ED;
 }
 
-.title2{
-    font-family: "Delius", cursive;
-    font-weight: 400;
+.beginning {
+    color: white;
+    font-family: "Parisienne", cursive;
+    font-weight: 600;
     font-style: normal;
-    text-decoration: none;
-    text-align: left;
-    font-size: 30px;
 }
